@@ -1,11 +1,15 @@
 # react_redux_basic_template
 react_redux_basic_template basic single react and redux file with web pack to create add subtract app.
 
-Uses node for web servering 
+Uses node for web serving to localhost 
+
 npm run server will start at at localhost:3000
 
+
 second terminal:
+
 npm run pack to webback it all up
+
 
 No bootsrap or styles of any kind. 
 
@@ -51,8 +55,7 @@ A single pure function updates state, but is fast because it doesn't change the 
     B. store.dispatch ({type:'INCREMENT'}) - to change state of application
     
     C. store.subscribe(() => {call back to update UI of app to reflect application state})
-    
-    7. render() method subscribes to store and ais called on firts load to set UI store.subscribe(render); to subscribe the store to thye render function
+7. render() method subscribes to store and ais called on firts load to set UI store.subscribe(render); to subscribe the store to thye render function
     
 
 
