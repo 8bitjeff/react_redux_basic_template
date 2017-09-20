@@ -10,12 +10,12 @@ second terminal:
 
 npm run pack to webback it all up
 
-
 No bootsrap or styles of any kind. 
 
-This includes basic consts for actions and a full description of how flux works to store state in a simple app.
+This includes basic consts for actions and a full description of how redux works to store state in a simple app.
 
-# Contents of entry.js description and notes for explai9ning the facits of React - Redux below (sorry for typos, they will be fixed)
+# Contents of entry.js description and notes for explaining the facits of React - Redux 
+# below (sorry for typos, they will be fixed)
 
  In this most simple version it this will contain our entire ract and redux app
  
